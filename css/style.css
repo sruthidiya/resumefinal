@@ -561,13 +561,37 @@ h2.resp-accordion {
     -webkit-appearance: none;
     display: inline-block;
 }
-.contact-form input[type="text"].email {
+.contact-form input[type="email"] {
+    width: 49%;
+    color: #fff;
+    background: none;
+    outline: none;
+    font-size: 1em;
+    padding: .8em 1em;
+    border: 1px solid #8C8C8C;
+    -webkit-appearance: none;
+    display: inline-block;
+    margin: 3em 0 1em 0.5em;
+}
+.contact-form input[type="email"] {
+    width: 49%;
+    color: #fff;
+    background: none;
+    outline: none;
+    font-size: 1em;
+    padding: .8em 1em;
+    border: 1px solid #8C8C8C;
+    -webkit-appearance: none;
+    display: inline-block;
+   margin-bottom: 1em;
+}
+/*.contact-form input[type="text"].email {
     margin: 3em 0 1em 0.5em;
 }
 .contact-form input[type="text"].phone {
     width: 100%;
     margin-bottom: 1em;
-}
+}*/
 .contact-form textarea {
     width: 100%;
     background: none;
