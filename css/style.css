@@ -551,7 +551,7 @@ h2.resp-accordion {
     right: -17px;
 }
 .contact-form input[type="text"] {
-    width: 49%;
+    width:100%;
     color: #fff;
     background: none;
     outline: none;
@@ -562,7 +562,7 @@ h2.resp-accordion {
     display: inline-block;
 }
 .contact-form input[type="email"] {
-    width: 49%;
+    width:100%;
     color: #fff;
     background: none;
     outline: none;
