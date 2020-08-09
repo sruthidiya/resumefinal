@@ -551,22 +551,23 @@ h2.resp-accordion {
     right: -17px;
 }
 .contact-form input[type="text"] {
-    width:49%;
+    width: 49%;
     color: #fff;
     background: none;
     outline: none;
-    font-size: 1em;
+    font-size: 1em; 
     padding: .8em 1em;
     border: 1px solid #8C8C8C;
     -webkit-appearance: none;
     display: inline-block;
+
 }
 .contact-form input[type="email"] {
-    width:49%;
+    width: 49%;
     color: #fff;
     background: none;
     outline: none;
-    font-size: 1em;
+    font-size: 1em; 
     padding: .8em 1em;
     border: 1px solid #8C8C8C;
     -webkit-appearance: none;
@@ -578,12 +579,13 @@ h2.resp-accordion {
     color: #fff;
     background: none;
     outline: none;
-    font-size: 1em;
+    font-size: 1em; 
     padding: .8em 1em;
     border: 1px solid #8C8C8C;
     -webkit-appearance: none;
     display: inline-block;
-   margin-bottom: 1em;
+   
+    margin-bottom: 1em;
 }
 /*.contact-form input[type="text"].email {
     margin: 3em 0 1em 0.5em;
