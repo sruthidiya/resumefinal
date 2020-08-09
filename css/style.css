@@ -551,7 +551,7 @@ h2.resp-accordion {
     right: -17px;
 }
 .contact-form input[type="text"] {
-    width:50%;
+    width:100%;
     color: #fff;
     background: none;
     outline: none;
@@ -560,11 +560,11 @@ h2.resp-accordion {
     border: 1px solid #8C8C8C;
     -webkit-appearance: none;
     display: inline-block;
-	 margin-bottom: 1em;
+    margin-bottom: 1em;
 
 }
 .contact-form input[type="number"] {
-    width: 50%;
+    width: 100%;
     color: #fff;
     background: none;
     outline: none;
@@ -573,6 +573,8 @@ h2.resp-accordion {
     border: 1px solid #8C8C8C;
     -webkit-appearance: none;
     display: inline-block;
+    margin-bottom: 1em;
+
    
 }
 .contact-form input[type="email"] {
