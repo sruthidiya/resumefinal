@@ -573,8 +573,8 @@ h2.resp-accordion {
     display: inline-block;
     margin: 3em 0 1em 0.5em;
 }
-.contact-form input[type="email"] {
-    width: 49%;
+.contact-form input[type="number"] {
+    width: 100%;
     color: #fff;
     background: none;
     outline: none;
