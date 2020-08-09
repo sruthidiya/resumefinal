@@ -559,7 +559,7 @@ h2.resp-accordion {
     padding: .8em 1em;
     border: 1px solid #8C8C8C;
     -webkit-appearance: none;
-    /*display: inline-block;*/
+    display: inline-block;
 	margin-bottom: 1em;
 
 }
@@ -572,8 +572,8 @@ h2.resp-accordion {
     padding: .8em 1em;
     border: 1px solid #8C8C8C;
     -webkit-appearance: none;
-   /* display: inline-block;
-    margin: 3em 0 1em 0.5em;*/
+   display: inline-block;
+   /* margin: 3em 0 1em 0.5em;*/
 	margin-bottom: 1em;
 }
 .contact-form input[type="number"] {
