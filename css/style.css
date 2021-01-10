@@ -828,6 +828,9 @@ h3.title {
     margin: 2em 0 1em 0.5em;
 }
 }
+.contact-form input[type="text"].name {
+    margin: 2em 0 1em 0.5em;
+}
 @media(max-width:800px){
 .about, .work, .education, .skills, .portfolio, .contact {
     padding: 3em 0;
