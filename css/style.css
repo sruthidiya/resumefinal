@@ -566,7 +566,7 @@ h2.resp-accordion {
    /* margin: 3em 0 1em 0.5em;*/
 	margin-bottom: 1em;
 }
-.contact-form input[type="text"] {
+.contact-form input[type="name"] {
     width: 100%;
     color: #fff;
     background: none;
